@@ -1,4 +1,4 @@
-{
+[
     {
       "puesto":"ingeniero de software",
       "localidad":"malaga",
@@ -24,4 +24,4 @@
       "localidad":"malaga",
       "fecha limite":"17/10/1993"
     }
-}
+    ]
